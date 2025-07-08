@@ -1,7 +1,3 @@
-Here is the complete `.md` documentation for your script:
-
----
-
 # NDHRHIS Health Workforce Data Scraper
 
 This Python script automates the extraction of **health workforce distribution tables** from the [National Database of Selected Human Resources for Health (NDHRHIS)](https://ndhrhis.doh.gov.ph) system of the **Philippine Department of Health**.
