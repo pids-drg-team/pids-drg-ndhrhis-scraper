@@ -1,7 +1,3 @@
-Here’s the **updated project documentation** with the addition of the new file `aggregate.ipynb`, which consolidates all municipality CSVs into one standardized output format (`Final.csv`) based on `Sample.csv`.
-
----
-
 # 🩺 NDHRHIS Health Workforce Data Scraper
 
 This project automates the **extraction** and **aggregation** of health workforce data from the [NDHRHIS](https://ndhrhis.doh.gov.ph) system of the Philippine Department of Health.
