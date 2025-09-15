@@ -2,6 +2,11 @@ output_csv
 complete_csv
 Final.csv
 Final_cleaned.csv
+Final_with_NA.csv
+Final_with_NA_cleaned.csv
+Final_with_dupes.csv
+Final_with_dupes_cleaned.csv
+Final_dirty.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
